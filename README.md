@@ -2,7 +2,8 @@
 
 En Streamlit-app för matched betting, byggd för svenska användare. Appen innehåller en manuell matched betting-kalkylator och en oddsmatcher som kan hämta odds från svenska spelbolag via The Odds API och jämföra dem med Smarkets-layodds när dessa finns tillgängliga.
 
-Appen är tänkt att köras i webbläsaren. Användaren behöver bara öppna den deployade appen, ange sin egen API-nyckel från The Odds API och sedan hämta odds.
+- Appen finns deployad på <a>https://oddsmatcher.streamlit.app/</a>
+- För att få live odds från de svenska spelbolagen så måste du ha en api nyckel från <a>https://the-odds-api.com/</a>
 
 ## Vad Appen Kan Användas Till
 
